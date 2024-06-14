@@ -1,4 +1,4 @@
-using BeFit;
+using AdareRestaurant;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 
